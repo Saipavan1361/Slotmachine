@@ -15,3 +15,7 @@ It is **not meant for real gambling** or promoting casinos.
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/slotmachine.git
+
+2. Open IDE or Terminal and run the command:
+   ```bash
+   python Slot_machine.py
